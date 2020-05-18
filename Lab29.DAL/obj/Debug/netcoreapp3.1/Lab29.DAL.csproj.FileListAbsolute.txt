@@ -1,0 +1,9 @@
+C:\Users\Frost\source\repos\Lab29\Lab29.DAL\bin\Debug\netcoreapp3.1\Lab29.DAL.deps.json
+C:\Users\Frost\source\repos\Lab29\Lab29.DAL\bin\Debug\netcoreapp3.1\Lab29.DAL.dll
+C:\Users\Frost\source\repos\Lab29\Lab29.DAL\bin\Debug\netcoreapp3.1\Lab29.DAL.pdb
+C:\Users\Frost\source\repos\Lab29\Lab29.DAL\obj\Debug\netcoreapp3.1\Lab29.DAL.csprojAssemblyReference.cache
+C:\Users\Frost\source\repos\Lab29\Lab29.DAL\obj\Debug\netcoreapp3.1\Lab29.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Frost\source\repos\Lab29\Lab29.DAL\obj\Debug\netcoreapp3.1\Lab29.DAL.AssemblyInfoInputs.cache
+C:\Users\Frost\source\repos\Lab29\Lab29.DAL\obj\Debug\netcoreapp3.1\Lab29.DAL.AssemblyInfo.cs
+C:\Users\Frost\source\repos\Lab29\Lab29.DAL\obj\Debug\netcoreapp3.1\Lab29.DAL.dll
+C:\Users\Frost\source\repos\Lab29\Lab29.DAL\obj\Debug\netcoreapp3.1\Lab29.DAL.pdb
